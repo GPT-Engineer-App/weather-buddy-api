@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Box, Heading, Input, Button, Text, VStack, Image, Spinner } from "@chakra-ui/react";
 import { FaSearch } from "react-icons/fa";
 
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "05f9f9480f9306e35e10d6f16e084278";
 
 const Index = () => {
   const [city, setCity] = useState("");
